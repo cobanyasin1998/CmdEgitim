@@ -1,0 +1,1 @@
+echo > yasin.docx
